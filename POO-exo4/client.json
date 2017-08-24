@@ -1,0 +1,40 @@
+{
+	"clientList": [
+		{
+			"id": "1",
+			"FirstName": "Jon",
+			"LastName": "Snow",
+			"city": "Winterfell"
+		},
+		{
+			"id": "2",
+			"FirstName": "Daenerys",
+			"LastName": "Targaryen",
+			"city": "Dragonstone"
+		},
+		{
+			"id": "3",
+			"FirstName": "Sansa",
+			"LastName": "Stark",
+			"city": "Winterfell"
+		},
+		{
+			"id": "4",
+			"FirstName": "Margaery",
+			"LastName": "Tyrell",
+			"city": "Reach"
+		},
+		{
+			"id": "5",
+			"FirstName": "Samwell",
+			"LastName": "Tarly",
+			"city": "Citadel"
+		},
+		{
+			"id": "6",
+			"FirstName": "Cersei",
+			"LastName": "Lannister",
+			"city": "Capital"
+		}
+	]
+}
